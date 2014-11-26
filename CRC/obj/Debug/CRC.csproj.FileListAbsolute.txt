@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\CRC\bin\Debug\CRC.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\CRC\bin\Debug\CRC.exe
+c:\users\andrei\documents\visual studio 2013\Projects\CRC\bin\Debug\CRC.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\CRC\obj\Debug\CRC.exe
+c:\users\andrei\documents\visual studio 2013\Projects\CRC\obj\Debug\CRC.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache

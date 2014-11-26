@@ -1,0 +1,6 @@
+c:\users\andrei\documents\visual studio 2013\Projects\HamminCode\bin\Debug\HamminCode.exe.config
+c:\users\andrei\documents\visual studio 2013\Projects\HamminCode\bin\Debug\HamminCode.exe
+c:\users\andrei\documents\visual studio 2013\Projects\HamminCode\bin\Debug\HamminCode.pdb
+c:\users\andrei\documents\visual studio 2013\Projects\HamminCode\obj\Debug\HamminCode.csprojResolveAssemblyReference.cache
+c:\users\andrei\documents\visual studio 2013\Projects\HamminCode\obj\Debug\HamminCode.exe
+c:\users\andrei\documents\visual studio 2013\Projects\HamminCode\obj\Debug\HamminCode.pdb
